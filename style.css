@@ -1,0 +1,21 @@
+section {padding-top: 50px;
+padding-bottom: 50px;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(img/ios-arrow-left-svgrepo-com.svg);
+}
+
+.carousel-control-next-icon {
+    background-image: url(img/ios-chevron-svgrepo-com.svg);
+}
+.carousel-control-next, .carousel-control-prev {
+    width: 20px;
+
+}
+.carousel-control-prev {
+    left: -35px;
+}
+.carousel-control-next {
+    right: -20px;
+}
